@@ -1,14 +1,16 @@
-<h2>Olá! Meu nome é Gabriel Venancio de Avelar! 👋 </h2>
+## Olá! Meu nome é Gabriel Venancio de Avelar! 👋
 
-<h3>⚡ Sobre mim</h3>
-<ul>
-  <li>💡 Apaixonado por novas tecnologias e sempre disposto a embarcar em novos desafios.</li>
-  <li>🎓 Atualmente sou graduando em Sistemas de Informação pela Universidade Federal de Lavras</li>
-  <li>📫 Como me alcançar: <a href="mailto:99gabrielavelar@gmail.com">E-mail </a></li>
-</ul>
+### ⚡ Sobre mim
+- 💡 Apaixonado por novas tecnologias e sempre disposto a embarcar em novos desafios.</li>
+- 🎓 Atualmente sou graduando em Sistemas de Informação pela Universidade Federal de Lavras.</li>
+- 📫 Como me alcançar: [E-mail](mailto:99gabrielavelar@gmail.com)
 
-<h3>🖥️ Projetos</h3>
-<ul>
-  <li>🏥 <a href="https://github.com/GabrielAvelarbr/Cleanic">Cleanic </a></li>
-</ul>
+
+### 🖥️ Projetos
+- 🏥 [Cleanic.](https://github.com/GabrielAvelarbr/Cleanic)
+
+
+### Redes sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-venancio-de-avelar-787610220/)
+
 
