@@ -2,7 +2,7 @@
 
 ### ⚡ About me
 - 🌎 I am a Developer based in Brazil.
-- 🎓 I am currently an undergraduate student in Information Systems at the Federal University of Lavras.
+- 🎓 I am currently an undergraduate student in Information Systems at the Universidade Federal de Lavras.
 
 
 ### Socials
