@@ -1,6 +1,5 @@
 ## Hi! My name is Gabriel Venancio de Avelar 👋
 
-### ⚡ About me
 - 🌎 I am a Developer based in Brazil.
 - 🎓 I am currently an undergraduate student in Information Systems at the Universidade Federal de Lavras.
 
