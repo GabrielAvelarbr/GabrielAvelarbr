@@ -1,4 +1,4 @@
-## Hi! My name is Gabriel Venancio de Avelar! 👋
+## Hi! My name is Gabriel Venancio de Avelar 👋
 
 ### ⚡ About me
 - 🌎 I am a Developer based in Brazil.
