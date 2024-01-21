@@ -1,3 +1,5 @@
+[ENG](README.md) / [PT](pt-README.md)
+
 <h2>Olá! Meu nome é Gabriel Venancio de Avelar 👋</h2>
 
 🌎 Sou um Desenvolvedor que reside no Brasil.
