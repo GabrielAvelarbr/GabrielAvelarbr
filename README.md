@@ -1,5 +1,3 @@
-[ENG](README.md) / [PT](pt-README.md)
-
 <h2>Hi! My name is Gabriel Venancio de Avelar 👋</h2>
 
 🌎 I am a Developer based in Brazil.
